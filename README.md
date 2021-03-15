@@ -4,6 +4,7 @@
 ### - :computer: Embedded systems design and software development
 ### - :musical_keyboard: Music
 ### - :airplane: Unmanned aerial vehicles
+### Contact: [linkedin](https://www.linkedin.com/in/chike-okonta/) & [email](cfred.okonta@gmail.com)
 
 
 <!--
