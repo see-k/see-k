@@ -1,4 +1,9 @@
-### Hi there 👋
+### -👋 Welcome to my github profile
+### - :pencil2: Chike Okonta
+### - :school: Bsc Computer Engineering
+### - :computer: Embedded systems design and software development
+### - :musical_keyboard: Music
+### - :airplane: Unmanned aerial vehicles
 
 
 <!--
@@ -15,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![wa9uGY](https://user-images.githubusercontent.com/40407778/111215074-b43b9f80-85a0-11eb-96a1-dad07d83e2b0.jpg)
