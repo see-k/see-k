@@ -1,6 +1,6 @@
 ### - :pencil2: Chike Okonta
 ### - :school: Bsc Computer Engineering, St. Cloud State University
-### - 💻: Software developer and embedded systems designer
+### - 💻 Software developer and embedded systems designer
 ### Contact: [linkedin](https://www.linkedin.com/in/chike-okonta/) & [email](cfred.okonta@gmail.com)
 
 
