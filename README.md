@@ -1,5 +1,5 @@
 ### - :pencil2: Chike Okonta
-### - :school: Bsc Computer Engineering
+### - :school: Bsc Computer Engineering, St. Cloud State University
 ### Contact: [linkedin](https://www.linkedin.com/in/chike-okonta/) & [email](cfred.okonta@gmail.com)
 
 
