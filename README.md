@@ -3,7 +3,6 @@
 ### - 💻 Fullstack Software developer & embedded systems designer
 ### Contact: [linkedin](https://www.linkedin.com/in/chike-okonta/) & [email](cfred.okonta@gmail.com)
 
-
 <!--
 **see-k/see-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![wa9uGY](https://user-images.githubusercontent.com/40407778/111215074-b43b9f80-85a0-11eb-96a1-dad07d83e2b0.jpg)
+
+
+<p align="center" width="100%">
+    <img width="100%" src="https://media.giphy.com/media/U5OgQSxhzjR1t4McGc/giphy.gif">
+</p>
+
+
