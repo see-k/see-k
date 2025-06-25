@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Chike Okonta</h1>
 <h3 align="center">Fullstack Software Developer</h3>
 
-- 🔭 I’m currently working on [Marxvim](https://www.marxvim.com)
+- 🔭 I’m currently working on [Fortify Risk AI](https://fortifyriskai-lp-app.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Node Enterprise](https://marxvimnode.com)
+- 👯 I’m looking to collaborate on [Node Enterprise](https://nodeenterprise.ai/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
