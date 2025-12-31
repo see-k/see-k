@@ -194,12 +194,18 @@ I'm a passionate developer who loves crafting elegant solutions to complex probl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=see-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=see-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="170"/>
+  <a href="https://github.com/see-k">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=see-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/see-k">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=see-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" alt="Top Languages" height="170"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=see-k&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <a href="https://github.com/see-k">
+    <img src="https://streak-stats.demolab.com/?user=see-k&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
